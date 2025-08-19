@@ -6,3 +6,48 @@ input, textarea {
   display: block;
   margin: 10px 0;
 }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f8ff;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  background-color: #0077b6;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  color: #023e8a;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+a {
+  color: #0077b6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #023e8a;
+  text-decoration: underline;
+}
+
+
